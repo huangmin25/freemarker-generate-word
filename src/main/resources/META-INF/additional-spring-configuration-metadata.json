@@ -1,0 +1,42 @@
+{"properties": [
+  {
+    "name": "spring.mysqldb.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mysqldb.driver-class-name'"
+  },
+  {
+    "name": "spring.mysqldb.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mysqldb.url'"
+  },
+  {
+    "name": "spring.mysqldb.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mysqldb.username'"
+  },
+  {
+    "name": "spring.mysqldb.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.mysqldb.password'"
+  },
+  {
+    "name": "spring.postgresdb.driver-class-name",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.postgresdb.driver-class-name'"
+  },
+  {
+    "name": "spring.postgresdb.url",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.postgresdb.url'"
+  },
+  {
+    "name": "spring.postgresdb.username",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.postgresdb.username'"
+  },
+  {
+    "name": "spring.postgresdb.password",
+    "type": "java.lang.String",
+    "description": "A description for 'spring.postgresdb.password'"
+  }
+]}
